@@ -1,1 +1,1 @@
-# .github
+init maqibraja/.github
